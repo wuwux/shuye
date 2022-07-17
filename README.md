@@ -3,8 +3,8 @@
 </p>
 <div align="center">
 
-# EatKano
+# 别输在不会表达上
 
-_![0FA543B7](https://user-images.githubusercontent.com/22928148/179388204-175be1d5-618b-4c8e-b131-0d76e28215f9.png)树叶你小子能不能争点气 艹_
+_![0FA62194](https://user-images.githubusercontent.com/22928148/179388228-3da9f8fd-0f9c-4a66-bf69-ebea7d8cc119.png)树叶你小子能不能争点气 艹_
 
 </div>
